@@ -1,5 +1,7 @@
 # Personal Voice Assistant
 
+# Live Demo: https://voicebot-beta-two.vercel.app/
+
 A decoupled web app with:
 
 - `frontend/`: React + Vite + TypeScript UI
